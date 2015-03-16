@@ -1,0 +1,18 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0" is_locked="false">
+    <option name="myName" value="Project Default" />
+    <option name="myLocal" value="false" />
+    <inspection_tool class="StaticImport" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="allowedClasses">
+        <set>
+          <option value="org.hamcrest.CoreMatchers" />
+          <option value="org.junit.Assert" />
+          <option value="org.mockito.Matchers" />
+          <option value="org.mockito.Mockito" />
+          <option value="org.springframework.test.web.servlet.request.MockMvcRequestBuilders" />
+          <option value="org.springframework.test.web.servlet.result.MockMvcResultMatchers" />
+        </set>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

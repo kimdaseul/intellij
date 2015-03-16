@@ -1,4 +1,4 @@
-package sophia;
+package com.test;
 
 /**
  * Hello world!

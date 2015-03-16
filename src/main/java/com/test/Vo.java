@@ -1,4 +1,4 @@
-package sophia;
+package com.test;
 
 public class Vo {
     private String name;
